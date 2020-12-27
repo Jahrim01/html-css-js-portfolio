@@ -119,6 +119,7 @@
 ::-webkit-scrollbar {
     width: 6px;
     height: 7px;
+    display: none;
   }
   ::-webkit-scrollbar-button {
     width: 0px;
